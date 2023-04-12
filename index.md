@@ -12,3 +12,8 @@ The University of Oregon’s collection of senjafuda is one of the largest in th
 
 ### Section 2 
 
+*senjafuda 千社札*
+
+**yōkai 妖怪**
+
+***The University of Oregon’s collection of senjafuda is one of the largest in the world.***
